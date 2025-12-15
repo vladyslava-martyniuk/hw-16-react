@@ -2,7 +2,7 @@
   "name": "hw-16-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vladyslava-martyniuk.github.io/lesson-16-react",
+  "homepage": "https://vladyslava-martyniuk.github.io/hw-16-react",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
